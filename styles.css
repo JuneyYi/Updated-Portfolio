@@ -1,7 +1,13 @@
 .image {
-    content:url(juney.jpg)
+    content:url(juney.jpg);
+    max-height: 200px;
+    max-width: 200px;
 }
 
 .nav-wrapper {
     margin-bottom: 20px;
+}
+
+body {
+    background-color: darkgrey;
 }
